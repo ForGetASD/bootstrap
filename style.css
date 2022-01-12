@@ -1,0 +1,14 @@
+body{
+    background-image: url("hatter.jpg");
+}
+.row {
+    margin: auto;
+}
+
+main, header, nav, aside, article, footer {
+    border: 1px solid black;
+}
+
+header {
+    padding: 0px;
+}
